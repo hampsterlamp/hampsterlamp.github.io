@@ -1,2 +1,2 @@
-# hampsterlamp.github.io
+# WGU Capstone
 D424 APK
